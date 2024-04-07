@@ -17,4 +17,3 @@ git stash apply stash@{n}
 git stash pop stash@{n} 
 # or to apply the most recent stash:
 git stash pop 
-
